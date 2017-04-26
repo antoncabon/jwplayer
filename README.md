@@ -1,2 +1,2 @@
 # jwplayer
-skin prime jwplayer 
+Beautiful Skin Prime from jwplayer 
