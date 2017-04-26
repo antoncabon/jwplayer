@@ -1,0 +1,2 @@
+# jwplayer
+skin prime jwplayer 
